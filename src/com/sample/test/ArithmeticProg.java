@@ -31,6 +31,7 @@ protected static void sub()
 private void mul()
 {
 	c=a*b;
+	System.out.println(c);
 }
 
 void div()
